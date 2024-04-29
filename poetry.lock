@@ -816,13 +816,13 @@ pytz = ">=2022.7"
 
 [[package]]
 name = "flask-caching"
-version = "2.1.0"
+version = "2.2.0"
 description = "Adds caching support to Flask applications."
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.8"
 files = [
-    {file = "Flask-Caching-2.1.0.tar.gz", hash = "sha256:b7500c145135836a952e3de3a80881d9654e327a29c852c9265607f5c449235c"},
-    {file = "Flask_Caching-2.1.0-py3-none-any.whl", hash = "sha256:f02645a629a8c89800d96dc8f690a574a0d49dcd66c7536badc6d362ba46b716"},
+    {file = "Flask_Caching-2.2.0-py3-none-any.whl", hash = "sha256:5b74ad9e263cc3c5ac9c2d33c094eb99294b111ace78ccaa665d6b852b907e14"},
+    {file = "flask_caching-2.2.0.tar.gz", hash = "sha256:9d2d30ee02250c47c3650fd6781b79e92d5964d91382a3697e5ebaf77ca0ea4f"},
 ]
 
 [package.dependencies]
@@ -2534,4 +2534,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "9d18ebe24f46de67ef08db37d7bace807ea236d7f680521ceb90e3273a718357"
+content-hash = "197ddc164549b04f01a885c49f9b872ba13de91df98626b72b347b8c4a83a250"
