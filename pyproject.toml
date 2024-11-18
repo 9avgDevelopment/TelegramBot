@@ -13,7 +13,7 @@ pydantic-settings = "^2.6.1"
 posthog = "^3.7.0"
 
 [tool.poetry.group.bot.dependencies]
-aiogram = "^3.14.0"
+aiogram = "^3.15.0"
 asyncpg = "^0.30.0"
 redis = "^5.2.0"
 loguru = "^0.7.2"
