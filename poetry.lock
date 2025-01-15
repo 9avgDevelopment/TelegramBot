@@ -1689,13 +1689,13 @@ test = ["appdirs (==1.4.4)", "covdefaults (>=2.3)", "pytest (>=7.4.3)", "pytest-
 
 [[package]]
 name = "posthog"
-version = "3.8.1"
+version = "3.8.3"
 description = "Integrate PostHog into any python application."
 optional = false
 python-versions = "*"
 files = [
-    {file = "posthog-3.8.1-py2.py3-none-any.whl", hash = "sha256:3c9849112c7e8b5cda7a3e7cb5e8cb4704da63be7dda00f64acad7f183335c78"},
-    {file = "posthog-3.8.1.tar.gz", hash = "sha256:1e7432ee717c59c0bfaab33e2e05744b3706af3258e0b600daa1400599e374d5"},
+    {file = "posthog-3.8.3-py2.py3-none-any.whl", hash = "sha256:7215c4d7649b0c87905b42f460403311564996d776ab48d39852f46539a50f22"},
+    {file = "posthog-3.8.3.tar.gz", hash = "sha256:263df03ea312d4b47a3d5ea393fdb22ff2ed78140d5ce9af9dd0618ae245a44b"},
 ]
 
 [package.dependencies]
@@ -2761,4 +2761,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "cd6caf31b4fb78f0311f53435aa050740770ad5412bd807510378149ff2ecf7a"
+content-hash = "b94d20f47f9872d55b61171d379b1d9d6c1b6ac3e17c80ec5d82bbd6a55409dc"
