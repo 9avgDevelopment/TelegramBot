@@ -10,7 +10,7 @@ python = "^3.10"
 sqlalchemy = "^2.0.37"
 pydantic = "^2.10.5"
 pydantic-settings = "^2.7.1"
-posthog = "^3.8.3"
+posthog = "^3.8.4"
 
 [tool.poetry.group.bot.dependencies]
 aiogram = "^3.17.0"
